@@ -1,0 +1,13 @@
+torch
+numpy
+matplotlib
+monai
+nibabel
+scikit-learn
+tqdm
+split-folders
+torchinfo
+segmentation-models-pytorch-3d
+livelossplot
+torchmetrics
+tensorboard
